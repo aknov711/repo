@@ -2,6 +2,6 @@
 using namespace std
 int main(()
          {
-             cout<<"I am Anand.";
+             cout<<"I am not Anand but om.";
             return 0;
          }
